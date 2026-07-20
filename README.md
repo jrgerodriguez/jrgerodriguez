@@ -93,7 +93,7 @@ Designed and integrated secure REST APIs using JWT authentication and relational
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/jorge-menjivar-141b6228a/
-- Email: menjivar.jorge.93@email.com
+- Email: menjivar.jorge.93@gmail.com
 
 ---
 
