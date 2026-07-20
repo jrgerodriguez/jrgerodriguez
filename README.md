@@ -62,12 +62,16 @@ Built an internal dashboard for managing employees, reports, and business operat
 
 **Tech:** React, Node.js, PostgreSQL
 
+🔗 Repository: [groomeria-clients-dashboard](https://github.com/jrgerodriguez/groomeria-clients-dashboard)
+
 ---
 
 ### QR Code & Notification System
 Developed a system that generates QR codes and automates email notifications.
 
 **Tech:** Node.js, Express, PostgreSQL
+
+🔗 Repository: [pfjas-attendance](https://github.com/jrgerodriguez/pfjas-attendance)
 
 ---
 
@@ -76,13 +80,14 @@ Created responsive landing pages focused on performance and user experience.
 
 **Tech:** React, Next.js, Astro, Tailwind CSS
 
+🔗 Repository: [pdx-landing](https://github.com/jrgerodriguez/pdx-landing)
+
 ---
 
 ### REST API Development
 Designed and integrated secure REST APIs using JWT authentication and relational databases.
 
 **Tech:** Node.js, Express, PostgreSQL
-
 ---
 
 ## 📫 Contact
